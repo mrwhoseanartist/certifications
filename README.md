@@ -3,7 +3,7 @@
 ## Overview
 
 - **Course Title:** Google Cybersecurity Professional Certificate 
-- **Provider:** Coursera and approved my google
+- **Provider:** Coursera and approved by google
 - **Completion Date:** OCT 2024
 
 ## Description
